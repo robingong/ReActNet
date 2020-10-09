@@ -1,4 +1,4 @@
-# ReActNet
+# ReActNet  史上最强二值化网络
 
 This is the pytorch implementation of our paper ["ReActNet: Towards Precise Binary NeuralNetwork with Generalized Activation Functions"](https://arxiv.org/abs/2003.03488), published in ECCV 2020. 
 
